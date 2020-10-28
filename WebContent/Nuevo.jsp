@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 <h1>Cibertec Sede Norte</h1>
 <h2> Renato Malpartida Gutierrez</h2>
+
+
+<marquee> GIT es lo maximo</marquee>
+
+
 </head>
 <body>
 
